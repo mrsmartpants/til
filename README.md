@@ -2,10 +2,8 @@
 
 > Today I Learned
 
-A collection of concise write-ups on small things I learn day to day across a
-variety of languages and technologies. These are things that don't really
-warrant a full blog post. These are mostly things I learn by pairing with
-smart people at [Hashrocket](http://hashrocket.com/).
+A collection of concise write-ups on things I learn day to day across a
+variety of languages and technologies. 
 
 _328 TILs and counting..._
 
@@ -26,6 +24,7 @@ _328 TILs and counting..._
 * [tmux](#tmux)
 * [Unix](#unix)
 * [Vim](#vim)
+* [Hadoop](#hadoop)
 
 ---
 
@@ -396,6 +395,11 @@ _328 TILs and counting..._
 - [Vim Without The Extras](vim/vim-without-the-extras.md)
 - [Whole Line Auto-Completion](vim/whole-line-auto-completion.md)
 - [Wrap With Some Room](vim/wrap-with-some-room.md)
+
+
+###hadoop
+- [hdfs]()
+
 
 ## About
 
